@@ -8,7 +8,6 @@ function dd($value) {
     die();
 }
 
-dd($_SERVER['REQUEST_URI']);
 
 /**
  * 
